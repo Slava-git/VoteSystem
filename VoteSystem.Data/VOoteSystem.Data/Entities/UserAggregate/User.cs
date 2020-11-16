@@ -14,6 +14,6 @@ namespace VoteSystem.Data.Entities.UserAggregate
         public int IdentificationCode { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public Region region { get; set; }
+        public Region Region { get; set; }
     }
 }

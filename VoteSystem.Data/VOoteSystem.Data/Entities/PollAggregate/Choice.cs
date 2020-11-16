@@ -9,6 +9,6 @@ namespace VoteSystem.Data.Entities.PollAggregate
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public Poll poll { get; set; }
+        public Poll Poll { get; set; }
     }
 }

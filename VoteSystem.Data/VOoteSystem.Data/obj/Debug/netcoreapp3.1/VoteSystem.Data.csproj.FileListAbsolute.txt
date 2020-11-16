@@ -1,0 +1,9 @@
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\bin\Debug\netcoreapp3.1\VoteSystem.Data.deps.json
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\bin\Debug\netcoreapp3.1\VoteSystem.Data.dll
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\bin\Debug\netcoreapp3.1\VoteSystem.Data.pdb
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\obj\Debug\netcoreapp3.1\VoteSystem.Data.csprojAssemblyReference.cache
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\obj\Debug\netcoreapp3.1\VoteSystem.Data.AssemblyInfoInputs.cache
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\obj\Debug\netcoreapp3.1\VoteSystem.Data.AssemblyInfo.cs
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\obj\Debug\netcoreapp3.1\VoteSystem.Data.csproj.CoreCompileInputs.cache
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\obj\Debug\netcoreapp3.1\VoteSystem.Data.dll
+D:\VoteSystem\VoteSystem.Data\VOoteSystem.Data\obj\Debug\netcoreapp3.1\VoteSystem.Data.pdb

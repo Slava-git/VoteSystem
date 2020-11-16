@@ -1,0 +1,17 @@
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.EF.deps.json
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.EF.runtimeconfig.json
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.EF.runtimeconfig.dev.json
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.EF.dll
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.EF.pdb
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.Data.dll
+D:\VoteSystem\VoteSystem.EF\bin\Debug\netcoreapp3.1\VoteSystem.Data.pdb
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.csprojAssemblyReference.cache
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.AssemblyInfoInputs.cache
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.AssemblyInfo.cs
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.csproj.CoreCompileInputs.cache
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.csproj.CopyComplete
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.dll
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.pdb
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.genruntimeconfig.cache
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.Migrations._1.resources
+D:\VoteSystem\VoteSystem.EF\obj\Debug\netcoreapp3.1\VoteSystem.EF.csproj.GenerateResource.cache
