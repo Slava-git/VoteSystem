@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF\\VoteSystem.EF.csproj": {}
+    "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF.csproj": {}
   },
   "projects": {
-    "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF\\VoteSystem.EF.csproj": {
+    "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF\\VoteSystem.EF.csproj",
+        "projectUniqueName": "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF.csproj",
         "projectName": "VoteSystem.EF",
-        "projectPath": "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF\\VoteSystem.EF.csproj",
+        "projectPath": "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VoteSystem\\VoteSystem.EF\\VoteSystem.EF\\obj\\",
+        "outputPath": "D:\\VoteSystem\\VoteSystem.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
